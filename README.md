@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lesedi+Skosana!;" />
 </h1>
 
-<h3 align="center">A passionate software developer & Researcher from South Africa</h3>
+<h3 align="center">A passionate Software Developer & Researcher from South Africa</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **an E-Learning Site**
+ 🔭 I’m currently working on **an E-Learning website**
  
  🌱 I’m currently learning **C, Django, Wireshark**
 
