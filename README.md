@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an E-Learning website**
+ 🔭 I’m currently working on **an E-Learning website & secret spyware**
  
- 🌱 I’m currently learning **C, Django, Wireshark**
+ 🌱 I’m currently learning **C, C++, Django, Wireshark**
 
-💬 Ask me about **Python, Java, Javascript, PHP, and Linux**
+💬 Ask me about **Python, Java, Javascript, and Linux**
 
 ⚡ Fun fact **Game of Thrones is the greatest series of all time, haha!**
 
