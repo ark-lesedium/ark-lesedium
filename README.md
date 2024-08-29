@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python, Java, Javascript, and Linux**
 
-⚡ Fun fact **Game of Thrones is the greatest series of all time, haha!**
+⚡ Fun fact **Rebel Moon is the best movie ever made, haha!**
 
  </div>
  
