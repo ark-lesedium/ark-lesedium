@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Machine Learning, Generative AI & Ethical hacking**
 
-💬 Ask me about **Python, Java, Javascript, and Linux**
+💬 Ask me about **Python, Java, Javascript, Linux, Virtual Machines**
 
 ⚡ Fun fact **Rebel Moon is the best movie ever made, haha!**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,python,php,javascript,mysql,dotnet,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=linux,vscode,github,anaconda,eclipse,idea,pycharm,replit,ubuntu,visualstudio,django,vmware" /><br>
+    <img src="https://skillicons.dev/icons?i=java,html,css,python,php,javascript,mysql,sqlite,dotnet,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,github,anaconda,eclipse,idea,pycharm,replit,ubuntu,visualstudio,django" /><br>
 </div>
 
 <br/>
