@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **an E-Learning website & secret spyware**
  
- 🌱 I’m currently learning **C, C++, Django, Wireshark**
+ 🌱 I’m currently learning **Machine Learning, Generative AI & Ethical hacking**
 
 💬 Ask me about **Python, Java, Javascript, and Linux**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,python,php,javascript,mysql,dotnet" />
-    <img src="https://skillicons.dev/icons?i=linux,vscode,github,anaconda,eclipse,idea,pycharm,replit,ubuntu,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=java,html,css,python,php,javascript,mysql,dotnet,c,c++" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,github,anaconda,eclipse,idea,pycharm,replit,ubuntu,visualstudio,django" /><br>
 </div>
 
 <br/>
