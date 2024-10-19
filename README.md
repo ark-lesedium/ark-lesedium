@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an E-Learning website & secret spyware**
+ 🔭 I’m currently working on **a secret spyware**
  
- 🌱 I’m currently learning **Machine Learning, Generative AI & Ethical hacking**
+ 🌱 I’m currently on a MongoDB Python Developer Path and Learning **Cloud Architecture and Ethical Hacking**
 
 💬 Ask me about **Python, Java, Javascript, Linux, Virtual Machines**
 
