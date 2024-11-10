@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **a secret spyware**
  
- 🌱 I’m currently on a MongoDB Python Developer Path and Learning **Cloud Architecture and Ethical Hacking**
+ 🌱 I’m currently learning **Cloud Architecture and Ethical Hacking**
 
-💬 Ask me about **Python, Java, Javascript, Linux, Virtual Machines**
+💬 Ask me about **Python, Java, Javascript, Linux, Virtual Machines, MongoDB**
 
 ⚡ Fun fact **Rebel Moon is the best movie ever made, haha!**
 
